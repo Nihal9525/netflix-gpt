@@ -13,6 +13,8 @@
 - Create Sign Up User Account
 - Impliment Sign In user Api
 - Created Redux Store
+- Implemented Sign Out
+- Update User
 
 
 # Features
