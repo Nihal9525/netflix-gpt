@@ -15,6 +15,10 @@
 - Created Redux Store
 - Implemented Sign Out
 - Update User
+- BugFix: Sign Up user displayName
+- BugFix: If the user is not logged in Redirect /browse to Login page and vice versa
+- Unsubscribed to the onAuthStateChanged Callback
+- Add hardcoded values to the constant file 
 
 
 # Features
